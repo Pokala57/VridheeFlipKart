@@ -1,0 +1,155 @@
+*{
+    font-family: Roboto,Arial,sans-serif;;
+}
+
+
+.lastImg{
+    /* border: 2px solid red; */
+    height: 380px;
+    display:  flex;
+    padding-right: 0px;
+}
+.Best {
+    /* border: 2px solid red; */
+   width: 230px;
+   margin-top: 50px;
+  }
+
+.Best h2{
+  word-wrap: break-word;
+  line-height: 1.38;
+  font-weight: 400;
+  font-size:30px;
+}
+.Best button{
+    display: inline-block;
+    border-radius: 2px;
+    width: 95px;
+    height: 35px;
+    /* padding: 10px 20px; */
+    background-color: #2874F0;
+    color: white;
+    font-weight: 600;
+    font-size: 13px;
+    vertical-align: super;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+
+  .background{
+    /* border: 2px solid red; */
+    height:110px;
+    background-image: url("https://rukminim1.flixcart.com/fk-p-flap/278/278/image/7593e7b6640822c1.jpg?q=90");
+    /* background-position: center bottom; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 52px;
+  }
+
+  .imgesCont{
+    /* border: 2px solid red; */
+    display:flex;
+    flex-direction:row;
+    padding: 5px 20px;
+    position: relative;
+  }
+
+.imgCard_{
+    width: 232px;
+    /* border: 2px solid red; */
+}
+.imgCard_ img{
+    padding: 25px 10px;
+    /* border: 2px solid ; */
+    
+}
+
+.para1{
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 15px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /* color: red; */
+}
+
+.para2{
+  color: #388e3c;
+  padding-top: 8px;
+  font-size: 16px;
+}
+
+.para3{
+  opacity:.6;
+  padding-top: 7px;
+  font-size: 14px;
+  line-height: 1.4;
+  letter-spacing: 0;
+}
+
+.lastImglast{
+   /* border: 2px solid; */
+   height: 380px;
+   width: 250px;
+   margin-left:50px;
+   
+}
+
+.lastImglast img{
+    height: 380px;
+    width: 250px;
+}
+
+.paraCont{
+    /* border: 2px solid red; */
+    /* margin-top: ; */
+}
+.cemara2{
+    height: 140px;
+}
+
+.cemara3{
+/* height: 120px; */
+/* padding-top: 30px; */
+/* border: 2px solid red; */
+margin-top: 20px;
+}
+
+.cemara4{
+    /* border: 2px solid red; */
+    margin-top: 20px;
+}
+.paraCont1{
+    /* border: 2px solid red; */
+
+}
+.paraCont2{
+    /* border: 2px solid red; */
+
+}
+
+.paraCont3{
+    /* border: 2px solid red; */
+    margin-top: 30px;
+
+}
+
+.paraCont4{
+    /* border: 2px solid red; */
+    margin-top: 27px;
+}
+.rightbtn_{
+    width: 47px;
+    height: 104px;
+    position: absolute;
+    top:35%;
+    right:-5%;
+    background-color: white;
+    border: none;
+    /* background-color: rgb(225,225,225,0.98); */
+    box-shadow: rgba(0,0,0,0.11) 0px 1px 5px 0px;
+    /* transition: opacity o.1s ease in0s; */
+
+}

@@ -1,0 +1,126 @@
+body {
+    font-family: Roboto,Arial,sans-serif;
+    letter-spacing: 0;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: #2874f0;
+    color: #fff;
+    padding:5px;
+  }
+
+  
+  .navbar__logo h1 {
+    font-size: 24px;
+  }
+  
+ 
+  
+ 
+  
+ 
+  
+
+
+    
+  .navbar__logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* border:  2px solid red; */
+  }
+  .logo{
+    height:20px;
+    width: 75px;
+
+  }
+  .navLogoSub{
+    height:20px;
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+  .navLogoSub p{
+    /* border: 2px solid; */
+    font-size: 11px;
+    font-style: italic;
+    /* margin-top: -1px; */
+  }
+
+  .navLogoSub  span{
+    color: #ffe500;
+    font-weight: 600;
+    margin-right: 2px;
+  }
+
+  .plus{
+    /* border: 2px solid yellow; */
+     height: 10px;
+     padding-bottom:2px;
+  }
+
+  .logoSearch{
+    display: flex;
+    align-items: center;
+    /* border: 2px solid red; */
+  }
+
+  .navbar__search {
+    /* height: 20px; */
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    /* border-radius: 4px; */
+    padding: 5px;
+    /* border: 2px solid red; */
+    margin-left: 20px;
+    
+    
+  }
+  
+  .navbar__search input[type='text'] {
+    border: none;
+    width: 564px;
+    background-color: transparent;
+    padding: 5px;
+    margin-right: 5px;
+    font-size: 14px;
+    /* font-weight: 600; */
+  }
+  
+  .search-icon {
+    color:#2370f4;
+    margin-right:10px;
+  }
+
+  .navbar__menu {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin-left:60px;
+    /* border: 2px solid red; */
+  }
+  
+  .navbar__menu-item {
+    /* margin-right: 20px; */
+    cursor: pointer;
+    /* border: 2px solid red; */
+    margin: 0px 20px;
+    font-weight: bold;
+  }
+
+  /* Rest of the CSS code */
+
+.arrow-icon {
+    font-size: 12px;
+  }
+  
+  /* Rest of the CSS code */
+  
